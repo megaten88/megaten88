@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Mayra Alejandra Salazar Rodriguez, currently studying Computer Science at Central American Technological University.
+- Currently working as a QA Engineer
+- I have been on the IT industry for a while, 8 years
+- Currently aiming to graduate in 2025
+
 <!--
 **megaten88/megaten88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
