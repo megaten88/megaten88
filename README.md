@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mayra Alejandra Salazar Rodriguez, currently studying Computer Science at Central American Technological University.
+My name is Mayra Alejandra Salazar Rodriguez, currently studying Computer Science at Central American Technological University (UNITEC).
 - Currently working as a QA Engineer
 - I have been on the IT industry for a while, 8 years
 - Currently aiming to graduate in 2025
